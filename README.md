@@ -18,14 +18,19 @@ Here are some ideas to get you started:
 # Bronson Duhart
 
 Central Standard Time | Pacific Standard Time
+
 bronson.duhart@gmail.com
+
 +52 442 147 7100
 
 @mrbronkson
 
 https://linkedin.com/in/mrbronkson
+
 https://x.com/mrbronkson
+
 https://github.com/mrbronkson
+
 https://stackoverflow.com/users/4281529/mrbronkson
 
 Machine Learning and Software Engineer with more than 7 years of experience creating effective technological solutions in the spaces of Automotive R&D and Big Tech. One of my biggest passions is understanding people's real needs and enabling them to fulfill their potential.
